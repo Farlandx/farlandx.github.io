@@ -112,6 +112,8 @@ h1 > span {
 	margin-top: 25px;
 	margin-left: 0;
 	color: #fff;
+	border-bottom: 1px solid;
+	width: 99%;
 }
 
 .content ul li.subtitle {

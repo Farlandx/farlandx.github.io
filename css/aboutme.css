@@ -32,10 +32,6 @@ hr {
     margin: 0 5px;
 }
 
-li {
-    list-style: none;
-}
-
 #background {
     list-style: none;
     margin: 0;
@@ -51,8 +47,6 @@ li {
     right: 0;
     z-index: 10;
     overflow: auto;
-    /*margin: 100px auto;
-	width: 50%;*/
 }
 
 .fadein {
